@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0504/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說進學經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T17/T17n0798.xml
+    old_id: T17n0798
+hash: sha256:ec5d74906c9a6b409c761984a1696ff0ef6a66787a1479e08da8543738f5486b

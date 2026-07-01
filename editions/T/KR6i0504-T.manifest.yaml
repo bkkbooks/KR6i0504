@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6i0504/T/v1
+canonical_location: https://kanripo.org/bkk/KR6i0504/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說進學經
+  identifiers:
+    krp: KR6i0504
+    cbeta: T17n0798
+    cbeta_old_id: T17n0798
+    authorityid: CA0001814
+    json_key: T0798
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T17/T17n0798.xml
+    old_id: T17n0798
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0504_000-T.yaml, hash: 'sha256:ec5d74906c9a6b409c761984a1696ff0ef6a66787a1479e08da8543738f5486b'}
+  - {seq: 1, filename: KR6i0504_001-T.yaml, hash: 'sha256:12ca8cbbfac5fc41161d9ecbcb544b28fd4f760f0fd72232c1a3cdfc2252ff7b'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6i0504_000-T.markers.yaml, hash: 'sha256:36190fa82af5f0f95d7a1ab0312168f064d651e6446f263cc715e55face4a279'}
+  - {seq: 1, role: markers, filename: assets/KR6i0504_001-T.markers.yaml, hash: 'sha256:ab28b76fabd1a970ad1b881be707abccafe315e62af203e78649e7437cdc3509'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0504_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 279
+  label: 佛說進學經
+  type: juan
+  level: 1
+hash: sha256:6a5b8302bc4c45763d91b17b681386cdfe72687c652cb73f152938ac2867936d
